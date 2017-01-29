@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LeadFormBuilder>
+  <formData>
+    <form_title>Contact Us</form_title>
+    <form_data>a:10:{s:12:"form_field_2";a:6:{s:10:"field_name";s:5:"Email";s:10:"field_type";a:1:{s:4:"type";s:5:"email";}s:13:"default_value";s:5:"Email";s:19:"default_placeholder";s:1:"1";s:11:"is_required";s:1:"1";s:8:"field_id";s:1:"2";}s:12:"form_field_9";a:4:{s:10:"field_name";s:13:"Upload Images";s:10:"field_type";a:1:{s:4:"type";s:6:"upload";}s:13:"default_value";s:0:"";s:8:"field_id";s:1:"9";}s:12:"form_field_3";a:6:{s:10:"field_name";s:10:"Contact No";s:10:"field_type";a:1:{s:4:"type";s:6:"number";}s:13:"default_value";s:14:"Contact number";s:19:"default_placeholder";s:1:"1";s:11:"is_required";s:1:"1";s:8:"field_id";s:1:"3";}s:12:"form_field_4";a:6:{s:10:"field_name";s:7:"Message";s:10:"field_type";a:1:{s:4:"type";s:7:"message";}s:13:"default_value";s:7:"Message";s:19:"default_placeholder";s:1:"1";s:11:"is_required";s:1:"1";s:8:"field_id";s:1:"4";}s:12:"form_field_5";a:3:{s:10:"field_name";s:5:"Radio";s:10:"field_type";a:4:{s:4:"type";s:5:"radio";s:7:"field_2";s:1:"1";s:7:"field_3";s:1:"2";s:7:"field_4";s:1:"3";}s:8:"field_id";s:1:"5";}s:12:"form_field_1";a:5:{s:10:"field_name";s:4:"Name";s:10:"field_type";a:1:{s:4:"type";s:4:"name";}s:13:"default_value";s:4:"Name";s:19:"default_placeholder";s:1:"1";s:8:"field_id";s:1:"1";}s:12:"form_field_6";a:3:{s:10:"field_name";s:8:"Checkbox";s:10:"field_type";a:4:{s:4:"type";s:8:"checkbox";s:7:"field_1";s:2:"c1";s:7:"field_2";s:2:"c2";s:7:"field_3";s:2:"c3";}s:8:"field_id";s:1:"6";}s:12:"form_field_7";a:3:{s:10:"field_name";s:6:"Option";s:10:"field_type";a:4:{s:4:"type";s:6:"option";s:7:"field_1";s:2:"o1";s:7:"field_2";s:2:"o2";s:7:"field_3";s:2:"o3";}s:8:"field_id";s:1:"7";}s:12:"form_field_8";a:4:{s:10:"field_name";s:3:"dob";s:10:"field_type";a:1:{s:4:"type";s:3:"dob";}s:13:"default_value";s:0:"";s:8:"field_id";s:1:"8";}s:12:"form_field_0";a:6:{s:10:"field_name";s:6:"submit";s:10:"field_type";a:1:{s:4:"type";s:6:"submit";}s:13:"default_value";s:0:"";s:19:"default_placeholder";s:1:"1";s:11:"is_required";s:1:"1";s:8:"field_id";s:1:"0";}}</form_data>
+    <form_size>medium</form_size>
+    <multiData/>
+    <storeType>3</storeType>
+  </formData>
+  <Colors>
+    <lfb_form_width>31</lfb_form_width>
+    <lfb_header_image/>
+    <lfb_color_heading>#111111</lfb_color_heading>
+    <lfb_heading_alignment>left</lfb_heading_alignment>
+    <lfb_heading_hide>block</lfb_heading_hide>
+    <lfb_heading_font_size>26</lfb_heading_font_size>
+    <lfb_header_algmnt_tb>0</lfb_header_algmnt_tb>
+    <lfb_header_algmnt_lr>0</lfb_header_algmnt_lr>
+    <lfb_bg_image/>
+    <lfb_color_bg>#ffffff</lfb_color_bg>
+    <lfb_form_padding_top>2</lfb_form_padding_top>
+    <lfb_form_padding_bottom>2</lfb_form_padding_bottom>
+    <lfb_form_padding_left>2</lfb_form_padding_left>
+    <lfb_form_padding_right>2</lfb_form_padding_right>
+    <lfb_color_label>#111111</lfb_color_label>
+    <lfb_color_field_border>rgba(33,15,15,0.67)</lfb_color_field_border>
+    <lfb_color_field_bg>#fff</lfb_color_field_bg>
+    <lfb_color_field_placeholder>rgba(96,96,96,0.89)</lfb_color_field_placeholder>
+    <lfb_color_button_text/>
+    <lfb_color_button_bg>rgba(96,96,96,0.89)</lfb_color_button_bg>
+    <lfb_color_button_bg_hover>rgba(86,86,86,0.87)</lfb_color_button_bg_hover>
+    <lfb_color_button_border>rgba(96,96,96,0.89)</lfb_color_button_border>
+    <lfb_button_aligment>left</lfb_button_aligment>
+    <lfb_button_font_size>16</lfb_button_font_size>
+    <lfb_btn_padding_tb>2</lfb_btn_padding_tb>
+    <lfb_btn_padding_lr>6</lfb_btn_padding_lr>
+    <lfb_custom_css/>
+    <colorid>1</colorid>
+  </Colors>
+</LeadFormBuilder>
