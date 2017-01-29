@@ -1,0 +1,48 @@
+.wrap{
+width:95%;
+margin-left:2.5%;
+top:0;
+margin-bottom:500px;
+}
+.sidebar ul {
+position:fixed;
+list-style-type:none;
+margin:0;
+background:blue;
+padding:10px;
+padding-left:0;
+margin-bottom:50px;
+}
+
+.sidebar ul li{
+display:inline;
+padding:10px;
+margin:-2px;
+
+}
+.sidebar ul li:first-child{
+background:red;
+}
+.sidebar ul li:last-child{
+background:black;
+}
+.sidebar ul li:hover{
+background:black;
+}
+
+.sidebar ul li a{
+color:#fff;
+text-decoration:none;
+}
+.sidebar ul li a img{
+width:40px;
+height:15px;
+}
+.pic{
+margin-top:80px;
+
+}
+.pic img{
+border:5px solid green;
+border-radius:2px;
+}

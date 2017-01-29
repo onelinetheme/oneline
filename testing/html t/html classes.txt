@@ -1,0 +1,60 @@
+First day (23 Feb 2016)
+1. html tag and doctype Editor
+2. header , body and title
+3. div, p, h1,h2,h3,h4,h5,h6, a, br and img
+
+
+2nd day
+—————
+1. html comments <!-- Write your comments here —>
+2. html tags - >hr,<meta charset="UTF-8"> 
+3. html style
+4. text formate ex(HTML Superscript Formatting)- > 
+		i,b,strong,small,em,mark,del,ins,sub,sup
+
+6. table  ->table>tr>th>tr>td  ,     <th colspan="2">Telephone</th>     
+					<th rowspan="2">Telephone:</th>
+					  <caption>Monthly savings</caption>
+					  
+					  -------------------------------------------------------
+7. Unordered List: ul>li
+8. Ordered List: ol>li ex->type=“1”,A,a,I,i
+<ol type="i">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+9. The <dl> tag defines the description list, the <dt> tag defines the term (name), and the <dd> tag describes each term: 
+
+ dl>dt>dd
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+
+
+3rd Day
+1. ->class,id
+2. iframe
+ <iframe src="demo_iframe.htm" name="iframe_a"></iframe>
+<p><a href="http://www.w3schools.com" target="iframe_a">W3Schools.com</a></p>
+3. style,and javascript
+
+4th dy
+3. button, submit(<button type="button" onclick="alert('Hello World!')">Click Me!</button>
+)
+4. form: action, method, input, type, password,date,email,
+name,number, 
+text , textarea(rows="10" cols="30") ,radio , checkbox , select
+
+Advance HTML
+5th Day
+1. <html lang="en-US">
+2. html Entities &lt;
+3. <p>I will display &euro;</p>
+<p>I will display &#8364;</p>
+<p>I will display &#x20AC;</p>
+4. URL - Uniform Resource Locator : http,https,ftp,file

@@ -1,0 +1,50 @@
+body{
+background-color:lightgreen;
+}
+.wrap{
+width:80%;
+
+}
+.wrap .sidebar{
+width:150px;
+float:left;
+margin-left:20px;
+
+}
+.wrap .pic{
+	width:700px;
+	float:right;
+    border:3px solid black;
+}
+.pic img{
+width:660px;
+padding:20px;
+}
+.sidebar ul {
+border:1px solid green;
+list-style:none;
+padding:0;
+margin:0;
+
+}
+.sidebar ul li{
+padding:10px;
+ border-bottom:1px solid green;
+ text-align:center;
+}
+.sidebar ul li:hover {
+background:#fff;
+
+}
+.sidebar ul li:last-child {
+ border-bottom:0;
+}
+
+.sidebar ul li a{
+ text-decoration: none;
+ 
+}
+
+
+
+

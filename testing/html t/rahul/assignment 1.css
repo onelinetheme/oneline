@@ -1,0 +1,96 @@
+body{
+background-color:#99ffff;
+padding:0;
+margin-bottom:50px;
+}
+
+.tr1{background-color:black;
+color:white;
+
+}
+.tr1 li{
+width: 100%;
+ font-size: 30px;
+ list-style:none;
+ display:inline;
+ padding:0 20px;
+ margin:0;
+}
+
+.main{
+width:1000px;
+margin-bottom:300px
+}
+
+.sidebar{
+width:200px;
+float:left;
+
+}
+.sidebar h3{
+margin-left:40px;
+
+}
+.sidebar ul li{
+list-style:none;
+border-left:1px solid #555;
+border-right:1px solid #555;
+border-top:1px solid #555;
+padding:5px;
+}
+
+.sidebar ul li:last-child {
+border-bottom:1px solid #555;
+
+}
+.sidebar_head li:hover{
+background-color:yellow;
+
+}
+.div1{
+width:700px;
+float:right;
+margin-top:10px;
+border:1px solid black;
+}
+.div1 .image1{
+width:700px;
+
+}
+.div1 .div2{
+width:700px;
+padding-bottom:50px;
+}
+.div1 .div2 h3{
+float:left;
+}
+.div1 .div2 h4{
+float:right;
+}
+.clear{
+clear:both;
+}
+.bottomp{
+border:1px solid;
+width:700px;
+float:right;
+margin-top:20px;
+}
+.bottomp .classh3{
+height:50px;
+float:right;
+color:white;
+background-color:green;
+}
+ .n8{
+ margin-top:50px;
+ }
+.classh41 .classha{
+float:left;
+}
+.classh41 .classhb{
+float:right;
+}
+
+
+

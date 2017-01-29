@@ -1,0 +1,19 @@
+ ul{
+  background: green;
+ }
+ 
+ 
+ 
+ ul li{
+ background: #ff9999;
+ padding-top:10px;
+  margin: 5px;
+}
+ul li ul li{
+margin: 5px;
+}
+.ulclass {
+ background: red !important;
+}
+
+li:nth-child(odd) {background-color: #f2f2f2}

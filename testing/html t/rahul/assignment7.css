@@ -1,0 +1,161 @@
+body{
+background-color:#AFEEEE;
+padding:0;
+margin:0;
+}
+.diva{
+width: 100%;
+background: black;
+position: absolute;
+margin-right: 22px;
+font-size: 22px;
+}
+
+.diva ul li{
+margin-right:40px;
+font-size:40px;
+color:white;
+display:inline;
+list-style:none;
+}
+.diva ul li:hover{
+color:green;
+}
+.diva ul li:first-child{
+margin-right:40px;
+padding-right:30px;
+}
+.snake{
+margin-top:0px;
+width:100%;
+}
+.divb{
+width:1300px;
+margin-left:0%;
+margin-right:0%;
+}
+hr{
+margin-bottom:0px;
+}
+.divb .ulb{
+list-style:none;
+margin-left:0px;
+margin:0px;
+padding:0px;
+margin-right:10px;
+}
+.divb .ulb li{
+margin-top:20px;
+margin-right:50px;
+width:350px;
+height:250px;
+border:1px solid black;
+border-radius:5px;
+display:inline-block;
+}
+.divb .ulb li:last-child{
+float:right;
+}
+.divb .ulb li h3{
+font-size:20px;
+padding-left:20px;
+padding-bottom:15px;
+border-bottom:1px solid black;
+}
+.divb .ulb li .p{
+color:#FF0000;
+background-color:#CCFF66;
+width:80px;
+border:0.5px solid black;
+	border-radius:7px;
+}
+.divb .ulb li .p:hover{
+background-color:black;
+}
+.divb .ulc{
+list-style:none;
+margin-left:0px;
+margin-right:0px;
+padding-left:0px;
+padding-right:0px;
+}
+.divb .ulc li{
+display:inline-block;
+margin-left:25px;
+}
+.divb .ulc li img{
+width:400px;
+height:200px;
+}
+
+/**d**/
+.divb .uld{
+list-style:none;
+margin-top:20px;
+margin-left:0px;
+margin-right:0px;
+padding-left:0px;
+padding-right:0px;
+}
+.divb .uld li{
+display:inline-block;
+margin-left:25px;
+}
+.divb .uld li img{
+width:400px;
+height:200px;
+}
+/**c**/
+
+.divc{
+list-style:none;
+}
+
+.divc .lif{
+width:600px;
+display:inline-block;
+}
+
+.divc .lif:first-child{
+float:left;
+}
+.divc .lif:last-child{
+float:right;
+}
+.img18{
+margin-top:20px;
+width:600px;
+float:right;
+}
+/**c**/
+
+.divd{
+width:1300px;
+height:100px;
+border:1px solid black;
+border-radius:4px;
+list-style:none;
+margin-top:500px;
+}
+
+.divd .lif1{
+width:700px;
+display:inline-block;
+}
+
+.divd .lif1:first-child{
+float:left;
+}
+.divd .lif2:last-child{
+float:right;
+margin-right:100px;
+margin-top:20px;
+width:200px;
+height:30px;
+border:1px solid black;
+border-radius:8px;
+padding-top:8px;
+}
+.divd .lif2:last-child:hover{
+background-color:yellow;
+}

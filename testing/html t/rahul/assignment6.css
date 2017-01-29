@@ -1,0 +1,99 @@
+body{
+background-color:#CCFF99;
+}
+.diva ul{
+width:100%;
+padding-left:40px;
+background-color:black;
+list-style:none;
+margin-bottom:0px;
+}
+.diva ul li{
+margin-right:40px;
+font-size:40px;
+color:white;
+display:inline;
+list-style:none;
+}
+.diva ul li:hover{
+color:green;
+}
+.divx{
+margin-top:0px;
+padding-top:0px;
+width:1325px;
+}
+.divx p{
+padding-top:0px;
+padding-left:25px;
+}
+.divx .b{
+font-size:40px;
+}
+.divx .ulb{
+padding-left:0px;
+list-style:none;
+display:inline;
+padding-bottom:0px;
+}
+.divx .ulb li img{
+width:300px;
+height:180px;
+}
+.divx .ulb li{
+margin-top:0px;
+padding-top:0px;
+padding-left:25px;
+display:inline-block;
+}
+.clear1{
+clear:both;
+}
+/**first**/
+.divx .ulc{
+padding-left:0px;
+list-style:none;
+display:inline;
+}
+.divx .ulc li img{
+width:300px;
+height:180px;
+}
+.divx .ulc li{
+margin-top:30px;
+padding-top:0px;
+padding-left:25px;
+display:inline-block;
+}
+/**second**/
+.divx .uld{
+padding-left:0px;
+list-style:none;
+display:inline;
+}
+.divx .uld li img{
+width:300px;
+height:180px;
+}
+.divx .uld li{
+margin-top:30px;
+padding-top:0px;
+padding-left:25px;
+display:inline-block;
+}
+/**third**/
+.divx .ule{
+padding-left:0px;
+list-style:none;
+display:inline;
+}
+.divx .ule li img{
+width:300px;
+height:180px;
+}
+.divx .ule li{
+margin-top:30px;
+padding-top:0px;
+padding-left:25px;
+display:inline-block;
+}

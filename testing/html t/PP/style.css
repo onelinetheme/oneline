@@ -1,0 +1,69 @@
+.h1tag{
+font-size:15px;
+color:#3425AB;
+background-image:url('po1.jpg');
+background-repeat:no-repeat;
+background-position: right top;
+width:400px;
+height:100px;
+margin:20px;
+padding:20px;
+text-align:center;
+border:2px solid green;
+}
+
+hr{
+background-color:red;
+height:10px;
+width:500px;
+border:1px solid green;
+}
+p{
+ letter-spacing: 3px;
+ width:100px;
+ line-height: 1.8;
+ direction: rtl;
+}
+p .r1{
+text-decoration:underline;
+}
+
+p .r2{
+text-decoration:line-through;
+text-transform: uppercase;
+}
+.r1class{
+color:red;
+padding:5px;
+background:black;
+width:50px;
+border:2px solid red;
+}
+.r1class:hover{
+
+color:green;
+}
+a{
+font-size:30px;
+text-decoration:none;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
